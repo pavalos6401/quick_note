@@ -3,6 +3,7 @@
 
 require_relative '../lib/quick_note.rb'
 
+# Works
 QuickNote.mkdir()
 QuickNote.mknote("yes")
 QuickNote.lstnotes()
