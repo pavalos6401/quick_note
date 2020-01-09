@@ -1,6 +1,7 @@
 # Quick Note
 
 Version 0.0.1 2019-12-24  
+<https://rubygems.org/gems/quick_note>
 
 This is a ruby gem to work with txt notes quickly.
 
